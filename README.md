@@ -72,22 +72,15 @@ Mô-đun nền tảng mạng máy tính cơ bản, đi sâu vào cấu trúc k�
 
 Mô-đun đi sâu vào bản chất kiến trúc mạng, phân loại các mô hình mạng chuyên sâu, phân tích chi tiết từng tầng giao thức và ứng dụng thực tiễn trong tấn công/phòng thủ mạng.
 
-| STT | Bài học | Nội dung chính | Trạng thái |
-| :-: | :--- | :--- | :-: |
-| 01 | [1. Networking Overview](Junior%20Cybersecurity%20Analyst/3.%20Introduction%20to%20Networking/1.%20Networking%20Overview.md) | Tổng quan mạng máy tính dưới góc nhìn bảo mật; phân đoạn mạng (Segmentation) và kỹ thuật di chuyển ngang (Pivoting). | Hoàn thành |
-| 02 | [2. Network Types](Junior%20Cybersecurity%20Analyst/3.%20Introduction%20to%20Networking/2.%20Network%20Types.md) | Phân loại mạng theo phạm vi địa lý: LAN, WLAN, WAN, VPN (Site-to-Site, Remote Access, SSL VPN), GAN, MAN, PAN. | Hoàn thành |
-| 03 | [3. Networking Topologies](Junior%20Cybersecurity%20Analyst/3.%20Introduction%20to%20Networking/3.%20Networking%20Topologies.md) | Cấu trúc topo mạng: Point-to-Point, Bus, Star, Ring, Mesh (Full/Partial), Tree, Hybrid và Daisy Chain. | Hoàn thành |
-| 04 | [4. Proxies](Junior%20Cybersecurity%20Analyst/3.%20Introduction%20to%20Networking/4.%20Proxies.md) | Bản chất thiết bị điều phối Proxy (Mediator): Phân biệt Forward Proxy, Reverse Proxy, Transparent Proxy và WAF. | Hoàn thành |
-| 05 | [5. Networking Models](Junior%20Cybersecurity%20Analyst/3.%20Introduction%20to%20Networking/5.%20Networking%20Models.md) | So sánh mô hình ISO/OSI 7 tầng và TCP/IP 4 tầng; các đơn vị dữ liệu PDU (Data, Segment, Packet, Frame, Bit). | Hoàn thành |
-| 06 | [6. The OSI Model](Junior%20Cybersecurity%20Analyst/3.%20Introduction%20to%20Networking/6.%20The%20OSI%20Model.md) | Phân tích chuyên sâu 7 tầng OSI: Application-oriented vs. Transport-oriented layers; quy trình khắc phục sự cố theo tầng. | Hoàn thành |
-| 07 | [7. The TCP-IP Model](Junior%20Cybersecurity%20Analyst/3.%20Introduction%20to%20Networking/7.%20The%20TCP-IP%20Model.md) | Bộ giao thức Internet Protocol Suite: 4 tầng chức năng và 5 nhiệm vụ cốt lõi (Addressing, Routing, Flow Control, Ports, DNS). | Hoàn thành |
-| 08 | [8. Network Layer](Junior%20Cybersecurity%20Analyst/3.%20Introduction%20to%20Networking/8.%20Network%20Layer.md) | Tầng mạng (Layer 3): Cơ chế chuyển tiếp từng chặng (Hop-by-hop), bảng định tuyến, TTL, ICMP exploits và IP Spoofing. | Hoàn thành |
+| STT | Bài học | Nội dung chính |
+| :-: | :--- | :--- |
+| 01 | [1. Networking Overview](Junior%20Cybersecurity%20Analyst/3.%20Introduction%20to%20Networking/1.%20Networking%20Overview.md) | Tổng quan mạng máy tính dưới góc nhìn bảo mật; phân đoạn mạng (Segmentation) và kỹ thuật di chuyển ngang (Pivoting). |
+| 02 | [2. Network Types](Junior%20Cybersecurity%20Analyst/3.%20Introduction%20to%20Networking/2.%20Network%20Types.md) | Phân loại mạng theo phạm vi địa lý: LAN, WLAN, WAN, VPN (Site-to-Site, Remote Access, SSL VPN), GAN, MAN, PAN. |
+| 03 | [3. Networking Topologies](Junior%20Cybersecurity%20Analyst/3.%20Introduction%20to%20Networking/3.%20Networking%20Topologies.md) | Cấu trúc topo mạng: Point-to-Point, Bus, Star, Ring, Mesh (Full/Partial), Tree, Hybrid và Daisy Chain. |
+| 04 | [4. Proxies](Junior%20Cybersecurity%20Analyst/3.%20Introduction%20to%20Networking/4.%20Proxies.md) | Bản chất thiết bị điều phối Proxy (Mediator): Phân biệt Forward Proxy, Reverse Proxy, Transparent Proxy và WAF. |
+| 05 | [5. Networking Models](Junior%20Cybersecurity%20Analyst/3.%20Introduction%20to%20Networking/5.%20Networking%20Models.md) | So sánh mô hình ISO/OSI 7 tầng và TCP/IP 4 tầng; các đơn vị dữ liệu PDU (Data, Segment, Packet, Frame, Bit). |
+| 06 | [6. The OSI Model](Junior%20Cybersecurity%20Analyst/3.%20Introduction%20to%20Networking/6.%20The%20OSI%20Model.md) | Phân tích chuyên sâu 7 tầng OSI: Application-oriented vs. Transport-oriented layers; quy trình khắc phục sự cố theo tầng. |
+| 07 | [7. The TCP-IP Model](Junior%20Cybersecurity%20Analyst/3.%20Introduction%20to%20Networking/7.%20The%20TCP-IP%20Model.md) | Bộ giao thức Internet Protocol Suite: 4 tầng chức năng và 5 nhiệm vụ cốt lõi (Addressing, Routing, Flow Control, Ports, DNS). |
+| 08 | [8. Network Layer](Junior%20Cybersecurity%20Analyst/3.%20Introduction%20to%20Networking/8.%20Network%20Layer.md) | Tầng mạng (Layer 3): Cơ chế chuyển tiếp từng chặng (Hop-by-hop), bảng định tuyến, TTL, ICMP exploits và IP Spoofing. |
 
----
 
-## Tiêu chuẩn dịch thuật và Biên soạn
-
-Tất cả các tài liệu trong kho lưu trữ tuân thủ các nguyên tắc biên soạn nghiêm ngặt:
-1. **Bảo toàn thuật ngữ chuyên ngành:** Các khái niệm và thuật ngữ kỹ thuật cốt lõi (như *Pivoting, Reverse Shell, Handshake, Encapsulation, Frame, Packet, Segment, Stateful Firewall, NGFW, v.v.*) được giữ nguyên bằng tiếng Anh để người học làm quen với tài liệu quốc tế và môi trường làm việc thực tế.
-2. **Hình ảnh & Sơ đồ:** Tất cả các sơ đồ quan trọng từ Hack The Box Academy được lưu trữ cục bộ trong thư mục `images/` của từng mô-đun, kết hợp cùng các sơ đồ luồng dữ liệu tự động vẽ bằng Mermaid.
-3. **Định dạng nhất quán:** Toàn bộ văn bản sử dụng dấu gạch ngang tiêu chuẩn (`-`), hoàn toàn loại bỏ dấu gạch nối dài (`—`, `–`) để đảm bảo khả năng hiển thị đồng nhất trên mọi trình đọc Markdown và terminal.

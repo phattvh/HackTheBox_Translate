@@ -70,13 +70,13 @@ Thư mục: [`2. Network Foundations`](2.%20Network%20Foundations/)
 
 Thư mục: [`3. Introduction to Networking`](3.%20Introduction%20to%20Networking/)
 
-| STT | Tên bài học | Tóm tắt nội dung | Trạng thái |
-| :-: | :--- | :--- | :-: |
-| 01 | [1. Networking Overview](3.%20Introduction%20to%20Networking/1.%20Networking%20Overview.md) | Kiến trúc mạng theo chiều sâu, phòng thủ phân đoạn và kỹ thuật Pivoting. | Hoàn thành |
-| 02 | [2. Network Types](3.%20Introduction%20to%20Networking/2.%20Network%20Types.md) | Phân loại mạng: LAN, WLAN, WAN, VPN (Site-to-Site, Remote, SSL), MAN, PAN. | Hoàn thành |
-| 03 | [3. Networking Topologies](3.%20Introduction%20to%20Networking/3.%20Networking%20Topologies.md) | 8 mô hình Topology: Point-to-Point, Bus, Star, Ring, Mesh, Tree, Hybrid, Daisy Chain. | Hoàn thành |
-| 04 | [4. Proxies](3.%20Introduction%20to%20Networking/4.%20Proxies.md) | Thiết bị điều phối Proxy (Mediator): Forward Proxy, Reverse Proxy, WAF. | Hoàn thành |
-| 05 | [5. Networking Models](3.%20Introduction%20to%20Networking/5.%20Networking%20Models.md) | So sánh OSI 7 tầng vs TCP/IP 4 tầng; các đơn vị dữ liệu PDU (Data, Segment, Packet, Frame, Bit). | Hoàn thành |
-| 06 | [6. The OSI Model](3.%20Introduction%20to%20Networking/6.%20The%20OSI%20Model.md) | Phân tích 7 tầng OSI: Application-oriented vs. Transport-oriented layers; quy trình xử lý sự cố. | Hoàn thành |
-| 07 | [7. The TCP-IP Model](3.%20Introduction%20to%20Networking/7.%20The%20TCP-IP%20Model.md) | Bộ giao thức TCP/IP: 4 tầng và 5 tác vụ cốt lõi (Addressing, Routing, Flow Control, Ports, DNS). | Hoàn thành |
-| 08 | [8. Network Layer](3.%20Introduction%20to%20Networking/8.%20Network%20Layer.md) | Tầng mạng (Layer 3): Hop-by-hop forwarding, Routing Table, TTL, ICMP exploits, IP Spoofing. | Hoàn thành |
+| STT | Tên bài học | Tóm tắt nội dung |
+| :-: | :--- | :--- |
+| 01 | [1. Networking Overview](3.%20Introduction%20to%20Networking/1.%20Networking%20Overview.md) | Kiến trúc mạng theo chiều sâu, phòng thủ phân đoạn và kỹ thuật Pivoting. |
+| 02 | [2. Network Types](3.%20Introduction%20to%20Networking/2.%20Network%20Types.md) | Phân loại mạng: LAN, WLAN, WAN, VPN (Site-to-Site, Remote, SSL), MAN, PAN. |
+| 03 | [3. Networking Topologies](3.%20Introduction%20to%20Networking/3.%20Networking%20Topologies.md) | 8 mô hình Topology: Point-to-Point, Bus, Star, Ring, Mesh, Tree, Hybrid, Daisy Chain. |
+| 04 | [4. Proxies](3.%20Introduction%20to%20Networking/4.%20Proxies.md) | Thiết bị điều phối Proxy (Mediator): Forward Proxy, Reverse Proxy, WAF. |
+| 05 | [5. Networking Models](3.%20Introduction%20to%20Networking/5.%20Networking%20Models.md) | So sánh OSI 7 tầng vs TCP/IP 4 tầng; các đơn vị dữ liệu PDU (Data, Segment, Packet, Frame, Bit). |
+| 06 | [6. The OSI Model](3.%20Introduction%20to%20Networking/6.%20The%20OSI%20Model.md) | Phân tích 7 tầng OSI: Application-oriented vs. Transport-oriented layers; quy trình xử lý sự cố. |
+| 07 | [7. The TCP-IP Model](3.%20Introduction%20to%20Networking/7.%20The%20TCP-IP%20Model.md) | Bộ giao thức TCP/IP: 4 tầng và 5 tác vụ cốt lõi (Addressing, Routing, Flow Control, Ports, DNS). |
+| 08 | [8. Network Layer](3.%20Introduction%20to%20Networking/8.%20Network%20Layer.md) | Tầng mạng (Layer 3): Hop-by-hop forwarding, Routing Table, TTL, ICMP exploits, IP Spoofing. |
