@@ -8,7 +8,7 @@ Mục lục chi tiết các mô-đun và bài học thuộc lộ trình học t�
 
 1. [Module 1: Introduction to Information Security](#1-module-1-introduction-to-information-security-24-bài) (24/24 bài - Hoàn thành)
 2. [Module 2: Network Foundations](#2-module-2-network-foundations-12-bài) (12/12 bài - Hoàn thành)
-3. [Module 3: Introduction to Networking](#3-module-3-introduction-to-networking-10-bài---đang-học) (10 bài - Đang học)
+3. [Module 3: Introduction to Networking](#3-module-3-introduction-to-networking-11-bài---đang-học) (11 bài - Đang học)
 
 ---
 
@@ -66,7 +66,7 @@ Thư mục: [`2. Network Foundations`](2.%20Network%20Foundations/)
 
 ---
 
-## 3. Module 3: Introduction to Networking (10 bài - Đang học)
+## 3. Module 3: Introduction to Networking (11 bài - Đang học)
 
 Thư mục: [`3. Introduction to Networking`](3.%20Introduction%20to%20Networking/)
 
@@ -82,3 +82,4 @@ Thư mục: [`3. Introduction to Networking`](3.%20Introduction%20to%20Networkin
 | 08 | [8. Network Layer](3.%20Introduction%20to%20Networking/8.%20Network%20Layer.md) | Tầng mạng (Layer 3): Hop-by-hop forwarding, Routing Table, TTL, ICMP exploits, IP Spoofing. |
 | 09 | [9. IP Addresses](3.%20Introduction%20to%20Networking/9.%20IP%20Addresses.md) | Địa chỉ IP: Cấu trúc IPv4, so sánh MAC vs IP, phân lớp A-E, Subnet Mask, nhị phân, CIDR và tấn công Smurf/ARP. |
 | 10 | [10. Subnetting](3.%20Introduction%20to%20Networking/10.%20Subnetting.md) | Kỹ thuật chia mạng con (Subnetting): Phân tách Network/Host, xác định Network/Broadcast IP, tính nhẩm Mental Subnetting và bảo mật phân đoạn. |
+| 11 | [11. MAC Addresses](3.%20Introduction%20to%20Networking/11.%20MAC%20Addresses.md) | Địa chỉ MAC (Layer 2): Cấu trúc 48-bit (OUI & NIC), các bit đặc biệt (I/G, U/L), giao thức ARP, phân tích log tshark và phòng chống tấn công ARP Poisoning/MAC Flooding. |
