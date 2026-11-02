@@ -10,7 +10,7 @@ Toàn bộ nội dung được biên soạn sang tiếng Việt tự nhiên, chu
 
 - [1. Module 1: Introduction to Information Security](#1-module-1-introduction-to-information-security-2424-bài---hoàn-thành) (24/24 bài - Hoàn thành)
 - [2. Module 2: Network Foundations](#2-module-2-network-foundations-1212-bài---hoàn-thành) (12/12 bài - Hoàn thành)
-- [3. Module 3: Introduction to Networking](#3-module-3-introduction-to-networking-9-bài---đang-cập-nhật) (9 bài - Đang cập nhật)
+- [3. Module 3: Introduction to Networking](#3-module-3-introduction-to-networking-10-bài---đang-cập-nhật) (10 bài - Đang cập nhật)
 
 ---
 
@@ -68,7 +68,7 @@ Mô-đun nền tảng mạng máy tính cơ bản, đi sâu vào cấu trúc k�
 
 ---
 
-## 3. Module 3: Introduction to Networking (9 bài - Đang cập nhật)
+## 3. Module 3: Introduction to Networking (10 bài - Đang cập nhật)
 
 Mô-đun đi sâu vào bản chất kiến trúc mạng, phân loại các mô hình mạng chuyên sâu, phân tích chi tiết từng tầng giao thức và ứng dụng thực tiễn trong tấn công/phòng thủ mạng.
 
@@ -83,5 +83,6 @@ Mô-đun đi sâu vào bản chất kiến trúc mạng, phân loại các mô h
 | 07 | [7. The TCP-IP Model](Junior%20Cybersecurity%20Analyst/3.%20Introduction%20to%20Networking/7.%20The%20TCP-IP%20Model.md) | Bộ giao thức Internet Protocol Suite: 4 tầng chức năng và 5 nhiệm vụ cốt lõi (Addressing, Routing, Flow Control, Ports, DNS). |
 | 08 | [8. Network Layer](Junior%20Cybersecurity%20Analyst/3.%20Introduction%20to%20Networking/8.%20Network%20Layer.md) | Tầng mạng (Layer 3): Cơ chế chuyển tiếp từng chặng (Hop-by-hop), bảng định tuyến, TTL, ICMP exploits và IP Spoofing. |
 | 09 | [9. IP Addresses](Junior%20Cybersecurity%20Analyst/3.%20Introduction%20to%20Networking/9.%20IP%20Addresses.md) | Địa chỉ IP: Cấu trúc IPv4, so sánh MAC vs IP, phân lớp A-E, Subnet Mask, nhị phân, CIDR và tấn công Smurf/ARP. |
+| 10 | [10. Subnetting](Junior%20Cybersecurity%20Analyst/3.%20Introduction%20to%20Networking/10.%20Subnetting.md) | Kỹ thuật chia mạng con (Subnetting): Phân tách Network/Host, xác định Network/Broadcast IP, tính nhẩm Mental Subnetting và bảo mật phân đoạn. |
 
 
