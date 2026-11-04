@@ -10,7 +10,7 @@ Toàn bộ nội dung được biên soạn sang tiếng Việt tự nhiên, chu
 
 - [1. Module 1: Introduction to Information Security](#1-module-1-introduction-to-information-security-2424-bài---hoàn-thành) (24/24 bài - Hoàn thành)
 - [2. Module 2: Network Foundations](#2-module-2-network-foundations-1212-bài---hoàn-thành) (12/12 bài - Hoàn thành)
-- [3. Module 3: Introduction to Networking](#3-module-3-introduction-to-networking-13-bài---đang-cập-nhật) (13 bài - Đang cập nhật)
+- [3. Module 3: Introduction to Networking](#3-module-3-introduction-to-networking-14-bài---đang-cập-nhật) (14 bài - Đang cập nhật)
 
 ---
 
@@ -68,7 +68,7 @@ Mô-đun nền tảng mạng máy tính cơ bản, đi sâu vào cấu trúc k�
 
 ---
 
-## 3. Module 3: Introduction to Networking (13 bài - Đang cập nhật)
+## 3. Module 3: Introduction to Networking (14 bài - Đang cập nhật)
 
 Mô-đun đi sâu vào bản chất kiến trúc mạng, phân loại các mô hình mạng chuyên sâu, phân tích chi tiết từng tầng giao thức và ứng dụng thực tiễn trong tấn công/phòng thủ mạng.
 
@@ -87,5 +87,6 @@ Mô-đun đi sâu vào bản chất kiến trúc mạng, phân loại các mô h
 | 11 | [11. MAC Addresses](Junior%20Cybersecurity%20Analyst/3.%20Introduction%20to%20Networking/11.%20MAC%20Addresses.md) | Địa chỉ MAC (Layer 2): Cấu trúc 48-bit (OUI & NIC), các bit đặc biệt (I/G, U/L), giao thức ARP, phân tích log tshark và phòng chống tấn công ARP Poisoning/MAC Flooding. |
 | 12 | [12. IPv6 Addresses](Junior%20Cybersecurity%20Analyst/3.%20Introduction%20to%20Networking/12.%20IPv6%20Addresses.md) | Địa chỉ IPv6: Kiến trúc 128-bit, 3 dạng Unicast/Anycast/Multicast (bãi bỏ Broadcast), quy tắc rút gọn RFC 5952, SLAAC và nguy cơ bảo mật Rogue RA/Shadow Network. |
 | 13 | [13. Networking Key Terminology](Junior%20Cybersecurity%20Analyst/3.%20Introduction%20to%20Networking/13.%20Networking%20Key%20Terminology.md) | Bảng thuật ngữ giao thức mạng cốt lõi: Phân loại theo 6 nhóm chức năng (Ứng dụng, Wireless, Routing, VPN, SCADA, Web), cổng mặc định và bề mặt tấn công thực chiến. |
+| 14 | [14. Common Protocols](Junior%20Cybersecurity%20Analyst/3.%20Introduction%20to%20Networking/14.%20Common%20Protocols.md) | Các giao thức phổ biến: Phân tích sâu TCP (Three-Way Handshake) vs. UDP, danh bạ cổng dịch vụ, giải mã trường ICMP TTL (OS Fingerprinting) và truyền thông VoIP/SIP. |
 
 
