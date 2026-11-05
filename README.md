@@ -10,7 +10,7 @@ Toàn bộ nội dung được biên soạn sang tiếng Việt tự nhiên, chu
 
 - [1. Module 1: Introduction to Information Security](#1-module-1-introduction-to-information-security-2424-bài---hoàn-thành) (24/24 bài - Hoàn thành)
 - [2. Module 2: Network Foundations](#2-module-2-network-foundations-1212-bài---hoàn-thành) (12/12 bài - Hoàn thành)
-- [3. Module 3: Introduction to Networking](#3-module-3-introduction-to-networking-15-bài---đang-cập-nhật) (15 bài - Đang cập nhật)
+- [3. Module 3: Introduction to Networking](#3-module-3-introduction-to-networking-16-bài---đang-cập-nhật) (16 bài - Đang cập nhật)
 
 ---
 
@@ -68,7 +68,7 @@ Mô-đun nền tảng mạng máy tính cơ bản, đi sâu vào cấu trúc k�
 
 ---
 
-## 3. Module 3: Introduction to Networking (15 bài - Đang cập nhật)
+## 3. Module 3: Introduction to Networking (16 bài - Đang cập nhật)
 
 Mô-đun đi sâu vào bản chất kiến trúc mạng, phân loại các mô hình mạng chuyên sâu, phân tích chi tiết từng tầng giao thức và ứng dụng thực tiễn trong tấn công/phòng thủ mạng.
 
@@ -89,5 +89,6 @@ Mô-đun đi sâu vào bản chất kiến trúc mạng, phân loại các mô h
 | 13 | [13. Networking Key Terminology](Junior%20Cybersecurity%20Analyst/3.%20Introduction%20to%20Networking/13.%20Networking%20Key%20Terminology.md) | Bảng thuật ngữ giao thức mạng cốt lõi: Phân loại theo 6 nhóm chức năng (Ứng dụng, Wireless, Routing, VPN, SCADA, Web), cổng mặc định và bề mặt tấn công thực chiến. |
 | 14 | [14. Common Protocols](Junior%20Cybersecurity%20Analyst/3.%20Introduction%20to%20Networking/14.%20Common%20Protocols.md) | Các giao thức phổ biến: Phân tích sâu TCP (Three-Way Handshake) vs. UDP, danh bạ cổng dịch vụ, giải mã trường ICMP TTL (OS Fingerprinting) và truyền thông VoIP/SIP. |
 | 15 | [15. Wireless Networks](Junior%20Cybersecurity%20Analyst/3.%20Introduction%20to%20Networking/15.%20Wireless%20Networks.md) | Mạng không dây: Sóng RF (2.4/5 GHz), khung liên kết 802.11, bắt tay WEP & lỗ hổng CRC, phân tích WPA2/WPA3, xác thực EAP/PEAP/TACACS+, tấn công Disassociation và chiến lược Wireless Hardening. |
+| 16 | [16. Virtual Private Networks](Junior%20Cybersecurity%20Analyst/3.%20Introduction%20to%20Networking/16.%20Virtual%20Private%20Networks.md) | Mạng riêng ảo (VPN): Bản chất Encrypted Tunneling, chuyên sâu bộ giao thức IPsec (AH vs ESP, Transport vs Tunnel Mode), cổng tường lửa (IKE UDP 500, NAT-T UDP 4500), sự sụp đổ của PPTP và các rủi ro VPN Leak/Split Tunneling. |
 
 
