@@ -8,7 +8,7 @@ Mục lục chi tiết các mô-đun và bài học thuộc lộ trình học t�
 
 1. [Module 1: Introduction to Information Security](#1-module-1-introduction-to-information-security-24-bài) (24/24 bài - Hoàn thành)
 2. [Module 2: Network Foundations](#2-module-2-network-foundations-12-bài) (12/12 bài - Hoàn thành)
-3. [Module 3: Introduction to Networking](#3-module-3-introduction-to-networking-17-bài---đang-học) (17 bài - Đang học)
+3. [Module 3: Introduction to Networking](#3-module-3-introduction-to-networking-18-bài---đang-học) (18 bài - Đang học)
 
 ---
 
@@ -66,7 +66,7 @@ Thư mục: [`2. Network Foundations`](2.%20Network%20Foundations/)
 
 ---
 
-## 3. Module 3: Introduction to Networking (17 bài - Đang học)
+## 3. Module 3: Introduction to Networking (18 bài - Đang học)
 
 Thư mục: [`3. Introduction to Networking`](3.%20Introduction%20to%20Networking/)
 
@@ -89,3 +89,4 @@ Thư mục: [`3. Introduction to Networking`](3.%20Introduction%20to%20Networkin
 | 15 | [15. Wireless Networks](3.%20Introduction%20to%20Networking/15.%20Wireless%20Networks.md) | Mạng không dây: Sóng RF (2.4/5 GHz), khung liên kết 802.11, bắt tay WEP & lỗ hổng CRC, phân tích WPA2/WPA3, xác thực EAP/PEAP/TACACS+, tấn công Disassociation và chiến lược Wireless Hardening. |
 | 16 | [16. Virtual Private Networks](3.%20Introduction%20to%20Networking/16.%20Virtual%20Private%20Networks.md) | Mạng riêng ảo (VPN): Bản chất Encrypted Tunneling, chuyên sâu bộ giao thức IPsec (AH vs ESP, Transport vs Tunnel Mode), cổng tường lửa (IKE UDP 500, NAT-T UDP 4500), sự sụp đổ của PPTP và các rủi ro VPN Leak/Split Tunneling. |
 | 17 | [17. Vendor Specific Information](3.%20Introduction%20to%20Networking/17.%20Vendor%20Specific%20Information.md) | Thông tin kỹ thuật từ nhà cung cấp (Cisco): Hệ điều hành Cisco IOS, phân đoạn mạng VLAN, chuẩn IEEE 802.1Q, phân tích PCAP Wireshark/tshark, tấn công VLAN Hopping (DTP & Double Tagging), công nghệ VXLAN (16 triệu mạng ảo), giao thức CDP và STP. |
+| 18 | [18. Key Exchange Mechanisms](3.%20Introduction%20to%20Networking/18.%20Key%20Exchange%20Mechanisms.md) | Các cơ chế trao đổi khóa mật mã: Phân tích chuyên sâu Diffie-Hellman (lỗ hổng MITM), RSA (sự thoái trào trong TLS 1.3), mật mã đường cong Elliptic (ECDH, ECDSA), giao thức IKE (Main Mode vs Aggressive Mode, tấn công bẻ khóa PSK bằng ike-scan/hashcat). |
