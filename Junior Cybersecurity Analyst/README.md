@@ -103,4 +103,4 @@ Thư mục: [`4. Introduction to Bash Scripting`](4.%20Introduction%20to%20Bash%
 
 | STT | Tên bài học | Tóm tắt nội dung |
 | :-: | :--- | :--- |
-
+| 01 | [1. Bourne Again Shell](4.%20Introduction%20to%20Bash%20Scripting/1.%20Bourne%20Again%20Shell.md) | Tổng quan về Bourne Again Shell (Bash): So sánh ngôn ngữ kịch bản vs. biên dịch, vai trò trong kiểm thử xâm nhập & xử lý dữ liệu lớn, 7 thành phần cấu trúc cốt lõi, 3 phương pháp thực thi (`bash`, `sh`, `./`), và giải phẫu chuyên sâu kịch bản trinh sát `CIDR.sh` kèm các lưu ý bảo mật (Command Injection, Quoting). |

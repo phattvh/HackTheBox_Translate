@@ -105,5 +105,5 @@ Mô-đun trang bị kỹ năng lập trình kịch bản Bash (Bash Scripting) t
 
 | STT | Bài học | Nội dung chính |
 | :-: | :--- | :--- |
-
+| 01 | [1. Bourne Again Shell](Junior%20Cybersecurity%20Analyst/4.%20Introduction%20to%20Bash%20Scripting/1.%20Bourne%20Again%20Shell.md) | Tổng quan về Bourne Again Shell (Bash): So sánh ngôn ngữ kịch bản vs. biên dịch, vai trò trong kiểm thử xâm nhập & xử lý dữ liệu lớn, 7 thành phần cấu trúc cốt lõi, 3 phương pháp thực thi (`bash`, `sh`, `./`), và giải phẫu chuyên sâu kịch bản trinh sát `CIDR.sh` kèm các lưu ý bảo mật (Command Injection, Quoting). |
 
