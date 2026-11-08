@@ -8,7 +8,8 @@ Mục lục chi tiết các mô-đun và bài học thuộc lộ trình học t�
 
 1. [Module 1: Introduction to Information Security](#1-module-1-introduction-to-information-security-24-bài) (24/24 bài - Hoàn thành)
 2. [Module 2: Network Foundations](#2-module-2-network-foundations-12-bài) (12/12 bài - Hoàn thành)
-3. [Module 3: Introduction to Networking](#3-module-3-introduction-to-networking-21-bài---đang-học) (21 bài - Đang học)
+3. [Module 3: Introduction to Networking](#3-module-3-introduction-to-networking-21-bài) (21/21 bài - Hoàn thành)
+4. [Module 4: Introduction to Bash Scripting](#4-module-4-introduction-to-bash-scripting-đang-học) (Đang học)
 
 ---
 
@@ -66,7 +67,7 @@ Thư mục: [`2. Network Foundations`](2.%20Network%20Foundations/)
 
 ---
 
-## 3. Module 3: Introduction to Networking (21 bài - Đang học)
+## 3. Module 3: Introduction to Networking (21 bài)
 
 Thư mục: [`3. Introduction to Networking`](3.%20Introduction%20to%20Networking/)
 
@@ -93,3 +94,13 @@ Thư mục: [`3. Introduction to Networking`](3.%20Introduction%20to%20Networkin
 | 19 | [19. Authentication Protocols](3.%20Introduction%20to%20Networking/19.%20Authentication%20Protocols.md) | Các giao thức xác thực mạng: Ba yếu tố xác thực, danh mục giao thức (Kerberos, OAuth, OIDC, SAML, FIDO2/Passkeys), quy trình bắt tay CHAP chống Replay, khung EAP (lỗ hổng của LEAP, đường hầm PEAP, tiêu chuẩn vàng EAP-TLS) và vai trò của PKI/TLS/SSH. |
 | 20 | [20. TCP-UDP Connections](3.%20Introduction%20to%20Networking/20.%20TCP-UDP%20Connections.md) | Phân tích kết nối TCP vs. UDP: Cấu trúc IP Packet/Header, ứng dụng trường IP ID nhận diện host đa IP, tùy chọn Record-Route, cơ chế hoạt động của Traceroute (UDP vs. TCP SYN), cấu trúc TCP Segment/UDP Datagram và kỹ thuật tấn công Blind Spoofing (dự đoán ISN). |
 | 21 | [21. Cryptography](3.%20Introduction%20to%20Networking/21.%20Cryptography.md) | Mật mã học ứng dụng: Phân biệt mã hóa đối xứng vs. bất đối xứng; phân tích kỹ thuật các thuật toán DES, 3DES, AES; so sánh chuyên sâu 6 chế độ mã hóa khối (ECB, CBC, CFB, OFB, CTR, GCM - chuẩn AEAD), rủi ro rò rỉ mẫu dữ liệu và tấn công Padding Oracle. |
+
+---
+
+## 4. Module 4: Introduction to Bash Scripting (Đang học)
+
+Thư mục: [`4. Introduction to Bash Scripting`](4.%20Introduction%20to%20Bash%20Scripting/)
+
+| STT | Tên bài học | Tóm tắt nội dung |
+| :-: | :--- | :--- |
+
