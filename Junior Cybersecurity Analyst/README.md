@@ -9,7 +9,7 @@ Mục lục chi tiết các mô-đun và bài học thuộc lộ trình học t�
 1. [Module 1: Introduction to Information Security](#1-module-1-introduction-to-information-security-24-bài) (24/24 bài - Hoàn thành)
 2. [Module 2: Network Foundations](#2-module-2-network-foundations-12-bài) (12/12 bài - Hoàn thành)
 3. [Module 3: Introduction to Networking](#3-module-3-introduction-to-networking-21-bài) (21/21 bài - Hoàn thành)
-4. [Module 4: Introduction to Bash Scripting](#4-module-4-introduction-to-bash-scripting-đang-học) (Đang học)
+4. [Module 4: Introduction to Bash Scripting](#4-module-4-introduction-to-bash-scripting-10-bài---đang-học) (1/10 bài - Đang học)
 
 ---
 
@@ -97,10 +97,10 @@ Thư mục: [`3. Introduction to Networking`](3.%20Introduction%20to%20Networkin
 
 ---
 
-## 4. Module 4: Introduction to Bash Scripting (Đang học)
+## 4. Module 4: Introduction to Bash Scripting (10 bài - Đang học)
 
 Thư mục: [`4. Introduction to Bash Scripting`](4.%20Introduction%20to%20Bash%20Scripting/)
 
 | STT | Tên bài học | Tóm tắt nội dung |
 | :-: | :--- | :--- |
-| 01 | [1. Bourne Again Shell](4.%20Introduction%20to%20Bash%20Scripting/1.%20Bourne%20Again%20Shell.md) | Tổng quan về Bourne Again Shell (Bash): So sánh ngôn ngữ kịch bản vs. biên dịch, vai trò trong kiểm thử xâm nhập & xử lý dữ liệu lớn, 7 thành phần cấu trúc cốt lõi, 3 phương pháp thực thi (`bash`, `sh`, `./`), và giải phẫu chuyên sâu kịch bản trinh sát `CIDR.sh` kèm các lưu ý bảo mật (Command Injection, Quoting). |
+| 01 | [1. Bourne Again Shell](4.%20Introduction%20to%20Bash%20Scripting/1.%20Bourne%20Again%20Shell.md) | Tổng quan về Bourne Again Shell (Bash): Khái niệm ngôn ngữ kịch bản vs. lập trình, vai trò trong kiểm thử xâm nhập & xử lý dữ liệu lớn, 7 thành phần cấu trúc cốt lõi, ví dụ thực thi kịch bản và giới thiệu tổng quan 5 khối chức năng của kịch bản trinh sát `CIDR.sh`. |

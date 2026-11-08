@@ -11,7 +11,7 @@ Toàn bộ nội dung được biên soạn sang tiếng Việt tự nhiên, chu
 - [1. Module 1: Introduction to Information Security](#1-module-1-introduction-to-information-security-2424-bài---hoàn-thành) (24/24 bài - Hoàn thành)
 - [2. Module 2: Network Foundations](#2-module-2-network-foundations-1212-bài---hoàn-thành) (12/12 bài - Hoàn thành)
 - [3. Module 3: Introduction to Networking](#3-module-3-introduction-to-networking-2121-bài---hoàn-thành) (21/21 bài - Hoàn thành)
-- [4. Module 4: Introduction to Bash Scripting](#4-module-4-introduction-to-bash-scripting-đang-cập-nhật) (Đang cập nhật)
+- [4. Module 4: Introduction to Bash Scripting](#4-module-4-introduction-to-bash-scripting-10-bài---đang-cập-nhật) (1/10 bài - Đang cập nhật)
 
 ---
 
@@ -99,11 +99,11 @@ Mô-đun đi sâu vào bản chất kiến trúc mạng, phân loại các mô h
 
 ---
 
-## 4. Module 4: Introduction to Bash Scripting (Đang cập nhật)
+## 4. Module 4: Introduction to Bash Scripting (10 bài - Đang cập nhật)
 
 Mô-đun trang bị kỹ năng lập trình kịch bản Bash (Bash Scripting) từ cơ bản đến nâng cao, tự động hóa tác vụ hệ thống Linux, xử lý chuỗi văn bản và phục vụ điều tra, thu thập dữ liệu trong an toàn thông tin.
 
 | STT | Bài học | Nội dung chính |
 | :-: | :--- | :--- |
-| 01 | [1. Bourne Again Shell](Junior%20Cybersecurity%20Analyst/4.%20Introduction%20to%20Bash%20Scripting/1.%20Bourne%20Again%20Shell.md) | Tổng quan về Bourne Again Shell (Bash): So sánh ngôn ngữ kịch bản vs. biên dịch, vai trò trong kiểm thử xâm nhập & xử lý dữ liệu lớn, 7 thành phần cấu trúc cốt lõi, 3 phương pháp thực thi (`bash`, `sh`, `./`), và giải phẫu chuyên sâu kịch bản trinh sát `CIDR.sh` kèm các lưu ý bảo mật (Command Injection, Quoting). |
+| 01 | [1. Bourne Again Shell](Junior%20Cybersecurity%20Analyst/4.%20Introduction%20to%20Bash%20Scripting/1.%20Bourne%20Again%20Shell.md) | Tổng quan về Bourne Again Shell (Bash): Khái niệm ngôn ngữ kịch bản vs. lập trình, vai trò trong kiểm thử xâm nhập & xử lý dữ liệu lớn, 7 thành phần cấu trúc cốt lõi, ví dụ thực thi kịch bản và giới thiệu tổng quan 5 khối chức năng của kịch bản trinh sát `CIDR.sh`. |
 
