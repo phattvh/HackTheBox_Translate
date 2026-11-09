@@ -11,7 +11,7 @@ Toàn bộ nội dung được biên soạn sang tiếng Việt tự nhiên, chu
 - [1. Module 1: Introduction to Information Security](#1-module-1-introduction-to-information-security-2424-bài---hoàn-thành) (24/24 bài - Hoàn thành)
 - [2. Module 2: Network Foundations](#2-module-2-network-foundations-1212-bài---hoàn-thành) (12/12 bài - Hoàn thành)
 - [3. Module 3: Introduction to Networking](#3-module-3-introduction-to-networking-2121-bài---hoàn-thành) (21/21 bài - Hoàn thành)
-- [4. Module 4: Introduction to Bash Scripting](#4-module-4-introduction-to-bash-scripting-10-bài---đang-cập-nhật) (1/10 bài - Đang cập nhật)
+- [4. Module 4: Introduction to Bash Scripting](#4-module-4-introduction-to-bash-scripting-10-bài---đang-cập-nhật) (2/10 bài - Đang cập nhật)
 
 ---
 
@@ -106,4 +106,5 @@ Mô-đun trang bị kỹ năng lập trình kịch bản Bash (Bash Scripting) t
 | STT | Bài học | Nội dung chính |
 | :-: | :--- | :--- |
 | 01 | [1. Bourne Again Shell](Junior%20Cybersecurity%20Analyst/4.%20Introduction%20to%20Bash%20Scripting/1.%20Bourne%20Again%20Shell.md) | Tổng quan về Bourne Again Shell (Bash): Khái niệm ngôn ngữ kịch bản vs. lập trình, vai trò trong kiểm thử xâm nhập & xử lý dữ liệu lớn, 7 thành phần cấu trúc cốt lõi, ví dụ thực thi kịch bản và giới thiệu tổng quan 5 khối chức năng của kịch bản trinh sát `CIDR.sh`. |
+| 02 | [2. Conditional Execution](Junior%20Cybersecurity%20Analyst/4.%20Introduction%20to%20Bash%20Scripting/2.%20Conditional%20Execution.md) | Cấu trúc thực thi có điều kiện: Vai trò của Shebang (`#!/bin/bash`, Python, Perl), mã giả mô tả luồng logic, cú pháp `if-then-fi`, `if-elif-else-fi` kiểm tra đối số đầu vào (`$#`, `$0`, `$1`), so sánh số học và bài tập mã hóa lặp chuỗi. |
 
