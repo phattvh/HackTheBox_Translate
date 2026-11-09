@@ -9,7 +9,7 @@ Mục lục chi tiết các mô-đun và bài học thuộc lộ trình học t�
 1. [Module 1: Introduction to Information Security](#1-module-1-introduction-to-information-security-24-bài) (24/24 bài - Hoàn thành)
 2. [Module 2: Network Foundations](#2-module-2-network-foundations-12-bài) (12/12 bài - Hoàn thành)
 3. [Module 3: Introduction to Networking](#3-module-3-introduction-to-networking-21-bài) (21/21 bài - Hoàn thành)
-4. [Module 4: Introduction to Bash Scripting](#4-module-4-introduction-to-bash-scripting-10-bài---đang-học) (2/10 bài - Đang học)
+4. [Module 4: Introduction to Bash Scripting](#4-module-4-introduction-to-bash-scripting-10-bài---đang-học) (3/10 bài - Đang học)
 
 ---
 
@@ -105,3 +105,4 @@ Thư mục: [`4. Introduction to Bash Scripting`](4.%20Introduction%20to%20Bash%
 | :-: | :--- | :--- |
 | 01 | [1. Bourne Again Shell](4.%20Introduction%20to%20Bash%20Scripting/1.%20Bourne%20Again%20Shell.md) | Tổng quan về Bourne Again Shell (Bash): Khái niệm ngôn ngữ kịch bản vs. lập trình, vai trò trong kiểm thử xâm nhập & xử lý dữ liệu lớn, 7 thành phần cấu trúc cốt lõi, ví dụ thực thi kịch bản và giới thiệu tổng quan 5 khối chức năng của kịch bản trinh sát `CIDR.sh`. |
 | 02 | [2. Conditional Execution](4.%20Introduction%20to%20Bash%20Scripting/2.%20Conditional%20Execution.md) | Cấu trúc thực thi có điều kiện: Vai trò của Shebang (`#!/bin/bash`, Python, Perl), mã giả mô tả luồng logic, cú pháp `if-then-fi`, `if-elif-else-fi` kiểm tra đối số đầu vào (`$#`, `$0`, `$1`), so sánh số học và bài tập mã hóa lặp chuỗi. |
+| 03 | [3. Arguments, Variables, and Arrays](4.%20Introduction%20to%20Bash%20Scripting/3.%20Arguments,%20Variables,%20and%20Arrays.md) | Đối số, biến và mảng: Cơ chế truyền tối đa 9 đối số vị trí (`$0`-`$9`), phân tích các biến đặc biệt (`$#`, `$@`, `$n`, `$$`, `$?`), quy tắc gán biến không khoảng trắng và cú pháp mảng có chỉ số kèm kỹ thuật mở rộng biến với dấu ngoặc nhọn. |
