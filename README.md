@@ -11,7 +11,7 @@ Toàn bộ nội dung được biên soạn sang tiếng Việt tự nhiên, chu
 - [1. Module 1: Introduction to Information Security](#1-module-1-introduction-to-information-security-2424-bài---hoàn-thành) (24/24 bài - Hoàn thành)
 - [2. Module 2: Network Foundations](#2-module-2-network-foundations-1212-bài---hoàn-thành) (12/12 bài - Hoàn thành)
 - [3. Module 3: Introduction to Networking](#3-module-3-introduction-to-networking-2121-bài---hoàn-thành) (21/21 bài - Hoàn thành)
-- [4. Module 4: Introduction to Bash Scripting](#4-module-4-introduction-to-bash-scripting-10-bài---đang-cập-nhật) (4/10 bài - Đang cập nhật)
+- [4. Module 4: Introduction to Bash Scripting](#4-module-4-introduction-to-bash-scripting-10-bài---đang-cập-nhật) (5/10 bài - Đang cập nhật)
 
 ---
 
@@ -109,4 +109,5 @@ Mô-đun trang bị kỹ năng lập trình kịch bản Bash (Bash Scripting) t
 | 02 | [2. Conditional Execution](Junior%20Cybersecurity%20Analyst/4.%20Introduction%20to%20Bash%20Scripting/2.%20Conditional%20Execution.md) | Cấu trúc thực thi có điều kiện: Vai trò của Shebang (`#!/bin/bash`, Python, Perl), mã giả mô tả luồng logic, cú pháp `if-then-fi`, `if-elif-else-fi` kiểm tra đối số đầu vào (`$#`, `$0`, `$1`), so sánh số học và bài tập mã hóa lặp chuỗi. |
 | 03 | [3. Arguments, Variables, and Arrays](Junior%20Cybersecurity%20Analyst/4.%20Introduction%20to%20Bash%20Scripting/3.%20Arguments,%20Variables,%20and%20Arrays.md) | Đối số, biến và mảng: Cơ chế truyền tối đa 9 đối số vị trí (`$0`-`$9`), phân tích các biến đặc biệt (`$#`, `$@`, `$n`, `$$`, `$?`), quy tắc gán biến không khoảng trắng và cú pháp mảng có chỉ số kèm kỹ thuật mở rộng biến với dấu ngoặc nhọn. |
 | 04 | [4. Comparison Operators](Junior%20Cybersecurity%20Analyst/4.%20Introduction%20to%20Bash%20Scripting/4.%20Comparison%20Operators.md) | Các toán tử so sánh trong Bash: Phân loại 4 nhóm toán tử (chuỗi, số nguyên, tệp tin, boolean và logic), quy tắc đặt ngoặc kép cho chuỗi, cơ chế so sánh thứ tự bảng mã ASCII và cấu trúc biểu thức điều kiện `[[ ... ]]`. |
+| 05 | [5. Arithmetic](Junior%20Cybersecurity%20Analyst/4.%20Introduction%20to%20Bash%20Scripting/5.%20Arithmetic.md) | Các toán tử số học trong Bash: 7 toán tử cơ bản (`+`, `-`, `*`, `/`, `%`, `++`, `--`), cú pháp mở rộng số học `$((...))`, đo độ dài chuỗi biến `${#var}` và ứng dụng điều khiển vòng lặp trong `CIDR.sh`. |
 
