@@ -9,7 +9,7 @@ Mục lục chi tiết các mô-đun và bài học thuộc lộ trình học t�
 1. [Module 1: Introduction to Information Security](#1-module-1-introduction-to-information-security-24-bài) (24/24 bài - Hoàn thành)
 2. [Module 2: Network Foundations](#2-module-2-network-foundations-12-bài) (12/12 bài - Hoàn thành)
 3. [Module 3: Introduction to Networking](#3-module-3-introduction-to-networking-21-bài) (21/21 bài - Hoàn thành)
-4. [Module 4: Introduction to Bash Scripting](#4-module-4-introduction-to-bash-scripting-10-bài---đang-học) (6/10 bài - Đang học)
+4. [Module 4: Introduction to Bash Scripting](#4-module-4-introduction-to-bash-scripting-10-bài---đang-học) (7/10 bài - Đang học)
 
 ---
 
@@ -109,3 +109,4 @@ Thư mục: [`4. Introduction to Bash Scripting`](4.%20Introduction%20to%20Bash%
 | 04 | [4. Comparison Operators](4.%20Introduction%20to%20Bash%20Scripting/4.%20Comparison%20Operators.md) | Các toán tử so sánh trong Bash: Phân loại 4 nhóm toán tử (chuỗi, số nguyên, tệp tin, boolean và logic), quy tắc đặt ngoặc kép cho chuỗi, cơ chế so sánh thứ tự bảng mã ASCII và cấu trúc biểu thức điều kiện `[[ ... ]]`. |
 | 05 | [5. Arithmetic](4.%20Introduction%20to%20Bash%20Scripting/5.%20Arithmetic.md) | Các toán tử số học trong Bash: 7 toán tử cơ bản (`+`, `-`, `*`, `/`, `%`, `++`, `--`), cú pháp mở rộng số học `$((...))`, đo độ dài chuỗi biến `${#var}` và ứng dụng điều khiển vòng lặp trong `CIDR.sh`. |
 | 06 | [6. Input and Output](4.%20Introduction%20to%20Bash%20Scripting/6.%20Input%20and%20Output.md) | Kiểm soát luồng nhập/xuất trong Bash: Tạo menu tương tác người dùng với lệnh `read -p`, lưu biến lựa chọn và sử dụng tiện ích `tee` (kèm tham số `-a`) để vừa hiển thị trực tiếp ra terminal vừa ghi lưu vào tệp tin. |
+| 07 | [7. Flow Control - Loops](4.%20Introduction%20to%20Bash%20Scripting/7.%20Flow%20Control%20-%20Loops.md) | Cấu trúc điều khiển luồng - Vòng lặp: Phân biệt cấu trúc rẽ nhánh vs. vòng lặp, cú pháp và ứng dụng của vòng lặp `for` (quét dải IP, tra cứu whois trong `CIDR.sh`), vòng lặp `while` có điều kiện dừng và lệnh ngắt `break`/`continue`, cùng vòng lặp `until`. |
