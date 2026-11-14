@@ -11,7 +11,7 @@ Toàn bộ nội dung được biên soạn sang tiếng Việt tự nhiên, chu
 - [1. Module 1: Introduction to Information Security](#1-module-1-introduction-to-information-security-2424-bài---hoàn-thành) (24/24 bài - Hoàn thành)
 - [2. Module 2: Network Foundations](#2-module-2-network-foundations-1212-bài---hoàn-thành) (12/12 bài - Hoàn thành)
 - [3. Module 3: Introduction to Networking](#3-module-3-introduction-to-networking-2121-bài---hoàn-thành) (21/21 bài - Hoàn thành)
-- [4. Module 4: Introduction to Bash Scripting](#4-module-4-introduction-to-bash-scripting-10-bài---đang-cập-nhật) (7/10 bài - Đang cập nhật)
+- [4. Module 4: Introduction to Bash Scripting](#4-module-4-introduction-to-bash-scripting-10-bài---đang-cập-nhật) (8/10 bài - Đang cập nhật)
 
 ---
 
@@ -112,4 +112,5 @@ Mô-đun trang bị kỹ năng lập trình kịch bản Bash (Bash Scripting) t
 | 05 | [5. Arithmetic](Junior%20Cybersecurity%20Analyst/4.%20Introduction%20to%20Bash%20Scripting/5.%20Arithmetic.md) | Các toán tử số học trong Bash: 7 toán tử cơ bản (`+`, `-`, `*`, `/`, `%`, `++`, `--`), cú pháp mở rộng số học `$((...))`, đo độ dài chuỗi biến `${#var}` và ứng dụng điều khiển vòng lặp trong `CIDR.sh`. |
 | 06 | [6. Input and Output](Junior%20Cybersecurity%20Analyst/4.%20Introduction%20to%20Bash%20Scripting/6.%20Input%20and%20Output.md) | Kiểm soát luồng nhập/xuất trong Bash: Tạo menu tương tác người dùng với lệnh `read -p`, lưu biến lựa chọn và sử dụng tiện ích `tee` (kèm tham số `-a`) để vừa hiển thị trực tiếp ra terminal vừa ghi lưu vào tệp tin. |
 | 07 | [7. Flow Control - Loops](Junior%20Cybersecurity%20Analyst/4.%20Introduction%20to%20Bash%20Scripting/7.%20Flow%20Control%20-%20Loops.md) | Cấu trúc điều khiển luồng - Vòng lặp: Phân biệt cấu trúc rẽ nhánh vs. vòng lặp, cú pháp và ứng dụng của vòng lặp `for` (quét dải IP, tra cứu whois trong `CIDR.sh`), vòng lặp `while` có điều kiện dừng và lệnh ngắt `break`/`continue`, cùng vòng lặp `until`. |
+| 08 | [8. Flow Control - Branches](Junior%20Cybersecurity%20Analyst/4.%20Introduction%20to%20Bash%20Scripting/8.%20Flow%20Control%20-%20Branches.md) | Cấu trúc điều khiển luồng - Rẽ nhánh: So sánh cấu trúc `if-else` vs. `switch-case` (`case...esac`), quy tắc so khớp mẫu chính xác, cú pháp dấu chấm phẩy kép `;;` và ứng dụng điều hướng menu trong `CIDR.sh`. |
 
