@@ -10,6 +10,7 @@ Mục lục chi tiết các mô-đun và bài học thuộc lộ trình học t�
 2. [Module 2: Network Foundations](#2-module-2-network-foundations-12-bài) (12/12 bài - Hoàn thành)
 3. [Module 3: Introduction to Networking](#3-module-3-introduction-to-networking-21-bài) (21/21 bài - Hoàn thành)
 4. [Module 4: Introduction to Bash Scripting](#4-module-4-introduction-to-bash-scripting-10-bài) (10/10 bài - Hoàn thành)
+5. [Module 5: Windows Fundamentals](#5-module-5-windows-fundamentals-đang-học) (Đang học)
 
 ---
 
@@ -113,3 +114,13 @@ Thư mục: [`4. Introduction to Bash Scripting`](4.%20Introduction%20to%20Bash%
 | 08 | [8. Flow Control - Branches](4.%20Introduction%20to%20Bash%20Scripting/8.%20Flow%20Control%20-%20Branches.md) | Cấu trúc điều khiển luồng - Rẽ nhánh: So sánh cấu trúc `if-else` vs. `switch-case` (`case...esac`), quy tắc so khớp mẫu chính xác, cú pháp dấu chấm phẩy kép `;;` và ứng dụng điều hướng menu trong `CIDR.sh`. |
 | 09 | [9. Functions](4.%20Introduction%20to%20Bash%20Scripting/9.%20Functions.md) | Hàm trong Bash: Hai cách khai báo hàm (`function name {}` và `name() {}`), truyền tham số vị trí độc lập (`$1`-`$9`), phạm vi biến toàn cục vs. cục bộ (`local`), bảng mã trả về (Return Codes) và lấy kết quả hàm bằng `$?` hay command substitution. |
 | 10 | [10. Debugging](4.%20Introduction%20to%20Bash%20Scripting/10.%20Debugging.md) | Gỡ lỗi trong Bash: Khái niệm debugging và ứng dụng truy vết lỗi/lỗ hổng, sử dụng tùy chọn `-x` (`xtrace`) theo dõi từng lệnh thực thi kèm giá trị (`+`) và kết hợp `-v` để hiển thị toàn bộ mã nguồn đang được xử lý trên `CIDR.sh`. |
+
+---
+
+## 5. Module 5: Windows Fundamentals (Đang học)
+
+Thư mục: [`5. Windows Fundamentals`](5.%20Windows%20Fundamentals/)
+
+| STT | Tên bài học | Tóm tắt nội dung |
+| :-: | :--- | :--- |
+| 01 | [1. Introduction to Windows](5.%20Windows%20Fundamentals/1.%20Introduction%20to%20Windows.md) | Tổng quan về hệ điều hành Windows: Lịch sử các phiên bản Desktop & Server, rủi ro hệ thống cũ (legacy/EOL), truy vấn thông tin hệ thống bằng PowerShell `Get-WmiObject`, khái niệm truy cập cục bộ vs. từ xa (RDP cổng 3389, `mstsc.exe`, tệp `.rdp`) và kết nối bằng `xfreerdp`. |
