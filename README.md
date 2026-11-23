@@ -126,4 +126,5 @@ Mô-đun trang bị kiến thức nền tảng về hệ điều hành Windows t
 | STT | Bài học | Nội dung chính |
 | :-: | :--- | :--- |
 | 01 | [1. Introduction to Windows](Junior%20Cybersecurity%20Analyst/5.%20Windows%20Fundamentals/1.%20Introduction%20to%20Windows.md) | Tổng quan về hệ điều hành Windows: Lịch sử các phiên bản Desktop & Server, rủi ro hệ thống cũ (legacy/EOL), truy vấn thông tin hệ thống bằng PowerShell `Get-WmiObject`, khái niệm truy cập cục bộ vs. từ xa (RDP cổng 3389, `mstsc.exe`, tệp `.rdp`) và kết nối bằng `xfreerdp`. |
+| 02 | [2. Operating System Structure](Junior%20Cybersecurity%20Analyst/5.%20Windows%20Fundamentals/2.%20Operating%20System%20Structure.md) | Cấu trúc thư mục hệ điều hành Windows: Chức năng các thư mục gốc (`Program Files`, `ProgramData`, `Users`, `AppData` với `Roaming`/`Local`/`LocalLow`, `System32`, `SysWOW64`, `WinSxS`) và kỹ năng duyệt cây thư mục qua dòng lệnh `dir /a`, `tree /f \| more`. |
 
